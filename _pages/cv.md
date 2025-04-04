@@ -14,7 +14,7 @@ Education
 * Ph.D in Polymer Science, Peking University, 2027 (expected)
 * B.S. in Supramolecular Chemistry, Sichuan University, 2022
 
-Studying Experience
+Oversea Experience
 ======
 * Summer 2020: Chemistry Summer Program
   * Girton College, Cambridge University
