@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "weiruichen-x.png"
+  avatar           : "weiruichen-x.jpg"
   name             : "Xingjian Chen"
-  pronouns         : #"he/his"  
+  pronouns         : # "he/his"  
   bio              : "nice PhD at PKU"
   location         : "China"
   employer         : "Peking University"
