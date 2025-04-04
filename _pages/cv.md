@@ -19,11 +19,6 @@ Studying Experience
 * Summer 2020: Chemistry Summer Program
   * Girton College, Cambridge University
   * Supervisor: Prof. Nick Godfrey
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
