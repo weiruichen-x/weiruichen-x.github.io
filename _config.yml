@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xingjian's space"
+title                    : "Xingjian's Space"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -67,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/home?lang=en"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
