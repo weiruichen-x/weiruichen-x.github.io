@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Polymer Science, Peking University, 2027 (expected)
-* B.S. in Chemistry, Sichuan University, 2022
+* B.S. in Supramolecular Chemistry, Sichuan University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Summer 2020: Girton College
+  * Cambridge University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
