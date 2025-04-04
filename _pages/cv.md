@@ -16,28 +16,20 @@ Education
 
 Work experience
 ======
-* Summer 2020: Girton College
-  * Cambridge University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2020: Chemistry Summer Program
+  * Girton College, Cambridge University
+  * Supervisor: Prof.Nick Godfrey
 
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Japanese (Currently N3)
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
