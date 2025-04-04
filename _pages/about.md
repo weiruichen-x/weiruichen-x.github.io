@@ -8,7 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Peking University. [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+As a third-year Ph.D. candidate (born in 2000) at Peking University’s College of Chemistry and Molecular Engineering, I specialize in pioneering methodologies for the controlled synthesis of dynamic polymers, with a focus on designing stimuli-responsive architectures for smart materials and sustainable applications. Beyond the lab, my passion for exploring diverse cultures through global travels and capturing intricate scientific phenomena via macro photography fuels my interdisciplinary perspective and creative problem-solving approach. Driven by an insatiable curiosity for innovation, I aspire to lead cutting-edge research initiatives that bridge molecular design with real-world challenges. Eager to collaborate with forward-thinking researchers, I thrive in environments that value intellectual agility, cross-disciplinary dialogue, and transformative discoveries. My ultimate goal is to contribute to advancing polymer science while cultivating a global network of peers committed to redefining material boundaries.
+
+Key Features
+Academic Precision: Uses field-specific terminology (e.g., "stimuli-responsive architectures")
+Narrative Flow: Connects research, hobbies, and aspirations through cause-effect phrasing
+Professional Vision: Emphasizes leadership and global collaboration
+Conciseness: Maintains depth within a single paragraph (ideal for homepage headers or academic profiles)
+Optional enhancements:
+
+Add a concluding motto (e.g., "Materials shape possibilities; curiosity shapes materials.")
+Include a call-to-action (e.g., "Let’s explore polymer innovation together: email@example.com")
+Link to a portfolio of scientific photography
+This version balances scholarly rigor with personal authenticity while omitting Japanese proficiency as requested.
+
+
 
 A data-driven personal website
 ======
