@@ -19,7 +19,10 @@ Oversea Experience
 * Summer 2020: Chemistry Summer Program
   * Girton College, Cambridge University
   * Supervisor: Prof. Nick Godfrey
-  
+* Summer 2024: Traveling in Singapore
+  * National University of Singapore, visiting
+  * Nanyang Technological University, visiting
+
 Skills
 ======
 * Japanese (Currently N3)
