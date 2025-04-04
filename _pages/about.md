@@ -10,20 +10,6 @@ redirect_from:
 
 As a third-year Ph.D. candidate (born in 2000) at Peking University’s College of Chemistry and Molecular Engineering, I specialize in pioneering methodologies for the controlled synthesis of dynamic polymers, with a focus on designing stimuli-responsive architectures for smart materials and sustainable applications. Beyond the lab, my passion for exploring diverse cultures through global travels and capturing intricate scientific phenomena via macro photography fuels my interdisciplinary perspective and creative problem-solving approach. Driven by an insatiable curiosity for innovation, I aspire to lead cutting-edge research initiatives that bridge molecular design with real-world challenges. Eager to collaborate with forward-thinking researchers, I thrive in environments that value intellectual agility, cross-disciplinary dialogue, and transformative discoveries. My ultimate goal is to contribute to advancing polymer science while cultivating a global network of peers committed to redefining material boundaries.
 
-Key Features
-Academic Precision: Uses field-specific terminology (e.g., "stimuli-responsive architectures")
-Narrative Flow: Connects research, hobbies, and aspirations through cause-effect phrasing
-Professional Vision: Emphasizes leadership and global collaboration
-Conciseness: Maintains depth within a single paragraph (ideal for homepage headers or academic profiles)
-Optional enhancements:
-
-Add a concluding motto (e.g., "Materials shape possibilities; curiosity shapes materials.")
-Include a call-to-action (e.g., "Let’s explore polymer innovation together: email@example.com")
-Link to a portfolio of scientific photography
-This version balances scholarly rigor with personal authenticity while omitting Japanese proficiency as requested.
-
-
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
